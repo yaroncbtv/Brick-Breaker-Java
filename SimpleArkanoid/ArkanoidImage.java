@@ -1,12 +1,4 @@
-/* 
- * Ver 0.1.0.0. - PreAlpha
- * 
- * SimpleArkanoid
- * Simple game made for exercise with java swing.
- * By Deovin Italy, Milan ( Deox@libero.it ) 
- * 12/1/2018
- * */
- 
+
 import java.awt.Image;
 import java.awt.Rectangle;
 import javax.swing.ImageIcon;
